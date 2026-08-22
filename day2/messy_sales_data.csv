@@ -1,0 +1,21 @@
+customer_id,name,age,city,signup_date,purchase_amount,category,email
+1,Rahul Sharma,25,Delhi,2023-01-05,1200,Electronics,rahul.sharma@email.com
+2,Priya Verma,32,Mumbai,05/01/2023,950,electronics,priya.verma@email.com
+3,Priya Verma,32,Mumbai,05/01/2023,950,electronics,priya.verma@email.com
+4,Amit Kumar,,Delhi,2023-01-07,1100,Clothing,amit.kumar@email.com
+5,Sneha Reddy,45,Chennai,2023-02-10,15000,Electronics,sneha.reddy@email.com
+6,Vikram Singh,29,mumbai,2023-02-15,800,Groceries,vikram.singh@email.com
+7,Anjali Nair,,Chennai,15-03-2023,1050,groceries,anjali.nair@email.com
+8,Karan Mehta,38,Delhi ,2023-03-01,990,Clothing,karan.mehta@email.com
+9,Neha Joshi,41,Bangalore,2023-03-01,,Electronics,neha.joshi@email.com
+10,Rohan Gupta,-5,Mumbai,2023-03-20,1200,clothing,rohan.gupta@email.com
+11,Divya Iyer,22,Chennai,2023-04-02,875,Groceries,divya.iyer@email.com
+12,Arjun Rao,36,chennai,2023-04-10,1020,Electronics,arjun.rao@email.com
+13,Meera Pillai,150,Delhi,2023-04-15,930,Clothing,meera.pillai@email.com
+14,Suresh Babu,28,Bangalore,2023/05/01,1500,groceries,suresh.babu@email.com
+15,Kavita Rao,,Mumbai,2023-05-05,NaN,Electronics,kavita.rao@email.com
+16,Farhan Ali,31,Delhi,2023-05-12,1010,Clothing,farhan.ali@email.com
+17,Farhan Ali,31,Delhi,2023-05-12,1010,Clothing,farhan.ali@email.com
+18,Pooja Nair,27,Chennai,2023-06-01,995,groceries,pooja.nair@email.com
+19,Manoj Tiwari,39,BANGALORE,2023-06-10,20000,Electronics,manoj.tiwari@email.com
+20,,34,Mumbai,2023-06-15,890,Clothing,
